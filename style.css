@@ -24,10 +24,3 @@
     opacity: 0.25;
 }
 
-.debug-slider {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    padding: 1rem;
-    font-family: Arial, sans-serif;
-}
